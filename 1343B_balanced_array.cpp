@@ -1,4 +1,8 @@
-// time = 31 ms
+/*
+	author: https://github.com/HueOne
+	time = 31 ms
+	GNU c++ 17
+*/
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
