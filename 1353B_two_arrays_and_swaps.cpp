@@ -7,7 +7,7 @@
 using namespace std;
 
 int main(){
-	int t, n, k, a, b, r;
+	int t, n, k, a, r;
 	scanf("%d", &t);
 	vector<int> va, vb;
 	for(int i=0;i<t;++i){
