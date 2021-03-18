@@ -9,10 +9,10 @@ using namespace std;
 int main(){
 	int t, n, k, a, b, r;
 	scanf("%d", &t);
-	vector<int> va, vb, v;
+	vector<int> va, vb;
 	for(int i=0;i<t;++i){
 		r=0;
-		va.clear(), vb.clear(), v.clear();
+		va.clear(), vb.clear();
 		scanf("%d %d", &n, &k);
 		for(int l=0;l<2;++l){
 			for(int j=0;j<n;++j){
