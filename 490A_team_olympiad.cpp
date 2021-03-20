@@ -6,7 +6,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
-	int n, a, b=1, mi;
+	int n, a, mi;
 	vector<int> v, v1, v2, v3;
 	scanf("%d", &n);
 	for(int i=0;i<n;++i)
