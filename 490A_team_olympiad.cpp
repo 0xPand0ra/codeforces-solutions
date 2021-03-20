@@ -11,7 +11,6 @@ int main(){
 	scanf("%d", &n);
 	for(int i=0;i<n;++i)
 		scanf("%d", &a), v.push_back(a);
-	//sort(v.begin(), v.end());
 	for(int i=0;i<n;++i){
 		 if(v[i] == 1) v1.push_back(i+1);
 		 else if(v[i] == 2)v2.push_back(i+1);
