@@ -7,12 +7,9 @@
 using namespace std;
 
 int main(){
-
 	int n, a;
-	vector<int> v;
 	cin >> n;
 	for(int j=0;j<n;++j){
-		v.clear();
 		cin >> a;
 		cout << (a+a%2)/2<<endl;
 	}
