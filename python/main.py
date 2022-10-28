@@ -1,7 +1,8 @@
 '''
 58A - Chat room
 https://github.com/0xPand0ra
-46 ms	0 KB
+time:46 ms	
+memory:0 KB
 '''
 
 def func(str):
