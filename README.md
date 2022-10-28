@@ -1,5 +1,5 @@
 # codeforces-solutions
-Author: https://github.com/HueOne
+Author: https://github.com/0xPand0ra
 
 Link to my profile: https://codeforces.com/profile/Hue
 
