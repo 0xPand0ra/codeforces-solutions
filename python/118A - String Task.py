@@ -1,6 +1,6 @@
 '''
 118A	String Task
-https://github.com/0xPan0ra
+https://github.com/0xPand0ra
 time:92 ms	
 memory:0 KB
 '''
