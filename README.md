@@ -1,17 +1,15 @@
 # codeforces-solutions
-Author: https://github.com/0xPand0ra
 
-Link to my profile: https://codeforces.com/profile/Hue
+Author: [Hue1337](https://github.com/Hue1337)
+[My profile](https://codeforces.com/profile/Hue)
 
 My discord: Hue#4607  https://discord.com/
 
-My email: tonyhvhcsgo@gmail.com
 
 
-My solutions for https://codeforces.com/problemset?order=BY_RATING_ASC problemsets.
+My solutions for [problemsets](https://codeforces.com/problemset?order=BY_RATING_ASC).
 
-New files will appear regularly.
+New files will appear (not) regularly .
 
-You should not submit my files as your solutions. Use them to analyse or compare with other solutions.
+You are disallowed to submit my source codes as your solutions. Use them to analyse or compare with others.
 
-Leave a star if you like it.
