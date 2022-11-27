@@ -1,7 +1,8 @@
 # codeforces-solutions
 
 Author: [Hue1337](https://github.com/Hue1337)
-[My profile](https://codeforces.com/profile/Hue)
+
+My [profile](https://codeforces.com/profile/Hue)
 
 My discord: Hue#4607  https://discord.com/
 
